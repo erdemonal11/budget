@@ -1,6 +1,6 @@
 import { Button, Stack } from "react-bootstrap"
 import Container from "react-bootstrap/Container"
-import AddBudgetModal from "./components/addBudgetModal"
+import AddBudgetModal from "./components/AddBudgetModal"
 import AddExpenseModal from "./components/AddExpenseModal"
 import ViewExpensesModal from "./components/ViewExpensesModal"
 import BudgetCard from "./components/BudgetCard"
